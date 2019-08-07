@@ -1,2 +1,2 @@
 #### SpringBoot templete project
-    SpringBoot use MySQL+Mybatis(use annotation)
+    SpringBoot use MySQL+Mybatis(annotation)
